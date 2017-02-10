@@ -1,0 +1,5 @@
+C:\Users\khanh\Documents\Visual Studio 2010\Projects\SplitFile\SplitFile\bin\Debug\SplitFile.exe
+C:\Users\khanh\Documents\Visual Studio 2010\Projects\SplitFile\SplitFile\bin\Debug\SplitFile.pdb
+C:\Users\khanh\Documents\Visual Studio 2010\Projects\SplitFile\SplitFile\obj\x86\Debug\SplitFile.exe
+C:\Users\khanh\Documents\Visual Studio 2010\Projects\SplitFile\SplitFile\obj\x86\Debug\SplitFile.pdb
+C:\Users\khanh\Documents\Visual Studio 2010\Projects\SplitFile\SplitFile\obj\x86\Debug\SplitFile.csprojResolveAssemblyReference.cache
